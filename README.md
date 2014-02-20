@@ -16,6 +16,7 @@ Following two classes implements the bit level operations needed
 
 
 I have included one text file and one binary image file for testing.
+Files generated will be stored in same directory as input file.( look for -compressed & -decompressed in file name)
 
 > java -jar LZ77.jar ./LZ77/example/textfile.txt
 > java -jar LZ77.jar ./LZ77/example/imagefile.bmp
