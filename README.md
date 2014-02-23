@@ -9,7 +9,7 @@ Requirement :
 LZ77.JAVA - implementation of compression/decompression.
 
 
-Following two classes implements the bit level operations needed
+Following two classes implements bit streams to read/write individual bytes into file system.
 
 > BitInputStream.java  
 > BitOutputStream.java
